@@ -10,5 +10,9 @@ module.exports = {
   "framework": "@storybook/react",
   "core": {
     "builder": "@storybook/builder-vite"
-  }
+  },
+  typescript: {
+    reactDocgen: 'react-docgen', // 👈 react-docgen configured here.
+  },
+
 }
