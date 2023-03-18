@@ -13,6 +13,5 @@ module.exports = {
   },
   typescript: {
     reactDocgen: 'react-docgen', // 👈 react-docgen configured here.
-  },
-
+  }
 }
